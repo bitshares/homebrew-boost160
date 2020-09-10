@@ -1,4 +1,4 @@
-NOTE: This fork essentially reverts upstream commit [`d18d380bbbf90808088460cd244c828171263196`](https://github.com/Homebrew/homebrew-core/commit/d18d380bbbf90808088460cd244c828171263196) to make Github Autobuild CI work for the [BitShares-Core](https://github.com/bitshares/bitshares-core) project.
+**NOTE:** This fork essentially reverts upstream commit [`d18d380bbbf90808088460cd244c828171263196`](https://github.com/Homebrew/homebrew-core/commit/d18d380bbbf90808088460cd244c828171263196) to re-enable the `boost@1.60` formula thus make Github Autobuild CI work for the [BitShares-Core](https://github.com/bitshares/bitshares-core) project.
 
 # Homebrew Core
 
